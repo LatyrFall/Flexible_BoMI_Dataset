@@ -13,8 +13,8 @@ This dataset has been recorded as part of a research project aiming at developin
 ###		- Proportional Control & Reliability
   		o P1_SAE.csv, P1_MAE.csv
 ###		- Reliability over days
-  		o Train set : P1_train_day1.csv, P1_train_day2.csv, P1_train_day3.csv, P1_train_day4.csv, P1_train_day5.csv
-  		o Test  set : P1_test_day1.csv,  P1_test_day2.csv,  P1_test_day3.csv,  P1_test_day4.csv,  P1_test_day5.csv
+  		o Train sets : P1_train_day1.csv, P1_train_day2.csv, P1_train_day3.csv, P1_train_day4.csv, P1_train_day5.csv
+  		o Test  sets : P1_test_day1.csv,  P1_test_day2.csv,  P1_test_day3.csv,  P1_test_day4.csv,  P1_test_day5.csv
 
 ## 3. Matlab script
 
