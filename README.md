@@ -1,9 +1,9 @@
 # Flexible Body-Machine Interface 
 
 C. L. Fall*, U. Côté-Allard*, Q. Mascret*, A. Campeau-Lecours+, M. Boukadoum^, C. Gosselin+ and B. Gosselin*, "Toward a Flexible and Modular Body-Machine Interface for Individuals Living with Severe Disabilities : a Feasibility Study", IEEE Transaction on Neural Systems and Rehabilitation Engineering (Under Review 2018).
-* Department of Electrical & Computer Engineering, Laval University
-+ Department of Mechanical Engineering, Laval University
-^ Department of Computer Engineering, Université du Québec à Montréal
+*Department of Electrical & Computer Engineering, Laval University
++Department of Mechanical Engineering, Laval University
+^Department of Computer Engineering, Université du Québec à Montréal
 
 ## 1. Description
 
