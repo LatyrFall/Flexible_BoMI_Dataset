@@ -1,6 +1,9 @@
 # Flexible Body-Machine Interface 
 
 C. L. Fall*, U. Côté-Allard*, Q. Mascret*, A. Campeau-Lecours+, M. Boukadoum^, C. Gosselin+ and B. Gosselin*, "Toward a Flexible and Modular Body-Machine Interface for Individuals Living with Severe Disabilities : a Feasibility Study", IEEE Transaction on Neural Systems and Rehabilitation Engineering (Under Review 2018).
+* Department of Electrical & Computer Engineering, Laval University
++ Department of Mechanical Engineering, Laval University
+^ Department of Computer Engineering, Université du Québec à Montréal
 
 ## 1. Description
 
@@ -9,20 +12,20 @@ This dataset has been recorded as part of a research project aiming at developin
 ## 2. The content 
 
 ###		- Classification Performance
-####		o P1.csv, P2.csv, P3.csv, P4.csv, P5.csv
+    	o P1.csv, P2.csv, P3.csv, P4.csv, P5.csv
 ###		- Proportional Control & Reliability
-####		o P1_SAE.csv, P1_MAE.csv
+  		o P1_SAE.csv, P1_MAE.csv
 ###		- Reliability over days
-####		o Train set : P1_train_day1.csv, P1_train_day2.csv, P1_train_day3.csv, P1_train_day4.csv, P1_train_day5.csv
-####		o Test  set : P1_test_day1.csv,  P1_test_day2.csv,  P1_test_day3.csv,  P1_test_day4.csv,  P1_test_day5.csv
+  		o Train set : P1_train_day1.csv, P1_train_day2.csv, P1_train_day3.csv, P1_train_day4.csv, P1_train_day5.csv
+  		o Test  set : P1_test_day1.csv,  P1_test_day2.csv,  P1_test_day3.csv,  P1_test_day4.csv,  P1_test_day5.csv
 
 ## 3. Matlab script
 
 Matlab scripts used to extract the measured performance described in the Section IV-C of the submitted paper are also provided :
 
 ###		- Classification Performance
-####		o motion_recognition_perf.m
+  		o motion_recognition_perf.m
 ###		- Proportional Control & Reliability
-####		o proportional_motion_perf.m
+  		o proportional_motion_perf.m
 ###		- Reliability over days
-####		o normalized_perf_over_days.m
+  		o normalized_perf_over_days.m
