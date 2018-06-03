@@ -54,6 +54,6 @@ Matlab scripts used to extract the measured performance described in the Section
 
   - Section IV-C-1) / Classification Performance : motion_recognition_perf.m
      
-  - Section IV-C-2) / Proportional Control & Reliability : motion_recognition_perf.m
+  - Section IV-C-2) / Proportional Control & Reliability : proportional_ctrl_perf.m
      
   - Section IV-C-3) / Reliability over days : normalized_perf_over_days.m
