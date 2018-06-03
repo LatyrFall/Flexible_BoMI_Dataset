@@ -12,29 +12,29 @@ This dataset has been recorded as part of a research project aiming at developin
     
     - P1.csv, P2.csv, P3.csv : 9 DoFs, 3 sensors used (head, 2 shoulders)
     
-              o  Neutral position (1 class) + 3D head motion (6 classes) + Right and Left shoulder motions (2 classes)
+        Neutral position (1 class) + 3D head motion (6 classes) + Right and Left shoulder motions (2 classes)
               
-              o  Sensor1 --> Pitch, Roll, Yaw, Gyrox, Gyroy, Gyroz
+        Sensor1 --> Pitch, Roll, Yaw, Gyrox, Gyroy, Gyroz
               
-              o  Sensor2 --> Pitch, Roll, Gyrox, Gyroy, Gyroz
+        Sensor2 --> Pitch, Roll, Gyrox, Gyroy, Gyroz
               
-              o  Sensor3 --> Pitch, Roll, Gyrox, Gyroy, Gyroz
+        Sensor3 --> Pitch, Roll, Gyrox, Gyroy, Gyroz
                 
     - P4.csv :  6 DoFs, 2 sensors used (head + right foot)
     
-              o  Neutral position (1 class) + 2D head motion (4 classes) + Right Foot Elevation (1 classes)
+        Neutral position (1 class) + 2D head motion (4 classes) + Right Foot Elevation (1 classes)
               
-              o  Sensor1 --> Pitch, Roll, Yaw, Gyrox, Gyroy, Gyroz
+        Sensor1 --> Pitch, Roll, Yaw, Gyrox, Gyroy, Gyroz
               
-              o  Sensor2 --> Pitch, Roll, Gyrox, Gyroy, Gyroz
+        Sensor2 --> Pitch, Roll, Gyrox, Gyroy, Gyroz
                 
     - P5.csv :  6 DoFs, 2 sensors used (left thumb + head)
     
-              o  Neutral position (1 class) + 2D left thumb motion (4 classes) + head (1 classes)
+        Neutral position (1 class) + 2D left thumb motion (4 classes) + head (1 classes)
               
-              o  Sensor1 --> Pitch, Roll, Yaw, Gyrox, Gyroy, Gyroz
+        Sensor1 --> Pitch, Roll, Yaw, Gyrox, Gyroy, Gyroz
               
-              o  Sensor2 --> Pitch, Roll, Gyrox, Gyroy, Gyroz
+        Sensor2 --> Pitch, Roll, Gyrox, Gyroy, Gyroz
              
 * The recording sessions with single and multiple amplitude examples (SAE and MAE) performed by P1 :
   
@@ -52,8 +52,8 @@ This dataset has been recorded as part of a research project aiming at developin
 
 Matlab scripts used to extract the measured performance described in the Section IV-C of the submitted paper are also provided :
 
-     - Section IV-C-1) / Classification Performance : motion_recognition_perf.m
+  - Section IV-C-1) / Classification Performance : motion_recognition_perf.m
      
-     - Section IV-C-2) / Proportional Control & Reliability : motion_recognition_perf.m
+  - Section IV-C-2) / Proportional Control & Reliability : motion_recognition_perf.m
      
-     - Section IV-C-3) / Reliability over days : normalized_perf_over_days.m
+  - Section IV-C-3) / Reliability over days : normalized_perf_over_days.m
